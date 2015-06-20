@@ -30,7 +30,7 @@
 
 <p>Success reported with</b> Ubuntu 12.02, Debian 7, Fedora 20, openSUSE 13
 
-<p><a href="prior-releases.html">Prior releases →</a></p>
+<p><a href="prior.html">Prior releases →</a></p>
 
 <div class="release-notes">
 <p>To install the .tar.gz archive, run:</p>

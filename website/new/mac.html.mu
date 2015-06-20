@@ -37,7 +37,8 @@
 <div class="release-notes">
 <h4>Release Notes:</h4>
 
-<p><em>The command line development tools are required prior to installation.</em> <br />If you have <tt>/usr/bin/ld</tt> available in a shell, you should be good to go. If not:</p>
+<p><em>The command line development tools are required prior to installation.</em> <br />If you have <tt>/usr/bin/ld</tt> available in a shell, you should be good to go.
+<p> If not:
 <ul>
 <li><p>On OS 10.7 or later, choose one of the following:</p>
 <ul>
