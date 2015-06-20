@@ -1,3 +1,4 @@
+<div class="release-notes">
 <p>
     Along with a compiler and basic development environment, Haskell Platform provides
     a variety of widely-used packages from <a href="http://hackage.haskell.org/">Hackage</a>, the
@@ -6,9 +7,10 @@
 <p>
     If you are a library author and would like to see your
     package included in Haskell Platform, see the
-    <a href="https://github.com/haskell/haskell-platform/wiki/AddingPackages">Wiki</a>
+    <a href="https://github.com/haskell/haskell-platform/wiki/AddingPackages">Haskell Platform Wiki</a>
     for the package proposal procedure.
 </p>
+</div>
 
 <div>
     <label for="package-filter">Package name:</label>

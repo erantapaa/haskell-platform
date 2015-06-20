@@ -8,7 +8,7 @@
 
 <div class="container">
 <div class="row">
-<div class="span12 col-md-12">
+<div class="span12 col-md-12 release-notes">
   <h2>Haskell Platform</h2>
   <p>The Haskell Platform is a convenient way to quickly install the Haskell development
      tools
@@ -28,6 +28,7 @@
     <li> <a href="contents.html">Included Packages</a>
     <li> <a href="https://www.haskell.org/platform/doc/2014.2.0.0/start.html">Documentation</a>
     <li> <a href="https://www.haskell.org/platform/doc/2014.2.0.0/platform/doc/frames.html">Library Doc</a>
+    <li> <a href="https://github.com/haskell/haskell-platform/wiki/">Wiki</a>
   </ul>
 </div>
 </div>

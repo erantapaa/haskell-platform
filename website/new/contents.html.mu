@@ -2,6 +2,8 @@
 <html>
   <head>
     {{> horg/header}}
+    <script src="js/jquery.js"></script>
+    <script src="js/contents.js"></script>
     <title>Haskell Platform for Linux</title>
   </head>
   <body class='page-home'>
