@@ -6,7 +6,7 @@
     <script src="js/contents.js"></script>
     <title>Haskell Platform for Linux</title>
   </head>
-  <body class='page-home'>
+  <body class='page-downloads'>
     {{> horg/topbody}}
 
 <div class="container"><ol class="breadcrumb">  <li><a href="hp.html">Haskell Platform</a>  <li><a href="#">Included Packages</a></ol></div>

@@ -4,7 +4,7 @@
     {{> horg/header}}
     <title>Haskell Platform for Windows</title>
   </head>
-  <body class='page-home'>
+  <body class='page-downloads'>
     {{> horg/topbody}}
 
 

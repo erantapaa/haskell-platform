@@ -4,7 +4,7 @@
     {{> horg/header}}
     <title>Haskell Platform for Linux</title>
   </head>
-  <body class='page-home'>
+  <body class='page-downloads'>
     {{> horg/topbody}}
 
 

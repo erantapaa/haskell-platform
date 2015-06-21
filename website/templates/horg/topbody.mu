@@ -3,7 +3,7 @@
       <nav class="navbar navbar-default">
         <div class="container">
           <div class="navbar-header">
-            <a href="/" class="navbar-brand"><span class= "logo"><U+E000></span>Haskell</a>
+            <a href="/" class="navbar-brand"><span class= "logo">&#xe000;</span>Haskell</a>
           </div>
           <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">

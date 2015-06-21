@@ -3,7 +3,7 @@
   <head>
     {{> horg/header}}
   </head>
-  <body class='page-home'>
+  <body class='page-downloads'>
     {{> horg/topbody}}
 
 <div class="container">
