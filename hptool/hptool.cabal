@@ -62,3 +62,23 @@ Executable hptool
     filepath
 
   ghc-options: -Wall -fwarn-tabs
+
+Executable hpdata
+  Main-is: DataMain.hs
+
+  Other-Modules:
+    Types,
+    ReleaseFiles,
+    Releases
+  hs-source-dirs: src
+
+  Build-depends:
+    Cabal,
+    aeson,
+    base,
+    bytestring,
+    containers,
+    directory,
+    shake,
+    syb,
+    vector
